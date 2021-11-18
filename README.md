@@ -10,13 +10,13 @@ This is the code repository for [AI-Powered Commerce ](https://www.packtpub.com/
 Commerce.AI is a suite of artificial intelligence (AI) tools for commerce, trained on over a trillion data points, to help brands build next-gen products. If you want to be the best commerce player on the block, using AI is a must. 
 
 This book covers the following exciting features:
-Find out how machine learning can help you identify new market opportunities
-Understand how to use consumer data to create new products and services
-Use state-of-the-art AI frameworks and tools for data analysis
-Launch, track, and improve products and services with AI
-Rise above the competition with unparalleled insights from AI
-Turn customer touchpoints into business wins
-Generate high-conversion product and service copy
+- Find out how machine learning can help you identify new market opportunities.
+- Understand how to use consumer data to create new products and services.
+- Use state-of-the-art AI frameworks and tools for data analysis.
+- Launch, track, and improve products and services with AI.
+- Rise above the competition with unparalleled insights from AI.
+- Turn customer touchpoints into business wins.
+- Generate high-conversion product and service copy.
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/180324898X) today!
 
