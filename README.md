@@ -57,3 +57,7 @@ is the CEO and founder of Commerce.AI. His previous start-up was acquired by the
 **Frederik Bussler**
  is a consultant and analyst, with experience across innovative AI platforms such as Commerce.AI, Obviously.AI, and Apteo, as well as investment offices such as Supercap Digital, Maven 11 Capital, and Invictus Capital. He has featured in Forbes, Yahoo, and other outlets, and has presented for audiences including IBM and Nikkei.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803248981">https://packt.link/free-ebook/9781803248981 </a> </p>
